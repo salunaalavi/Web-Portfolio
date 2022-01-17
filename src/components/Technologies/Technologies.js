@@ -16,7 +16,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Berpengalaman dengan <br />
             Next.js
           </ListParagraph>
         </ListContainer>
@@ -26,8 +26,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Laravel and MySQL
+            Berpengalaman dengan <br />
+            Laravel and MySQL JSON
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -36,7 +36,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Cloud Computing</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Berpengalaman dengan <br />
             Huawei FusionCompute
           </ListParagraph>
         </ListContainer>
