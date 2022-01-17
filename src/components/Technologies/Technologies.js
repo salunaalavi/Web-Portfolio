@@ -17,7 +17,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Berpengalaman dengan <br />
-            React dan Next.js
+            Bootstrap, React dan Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
