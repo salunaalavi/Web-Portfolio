@@ -11,8 +11,8 @@ const Hero = (props) => (
         Saluna Alavi | Web Developer
       </SectionTitle>
       <SectionText>
-        Saya merupakan mahasiswa semester enam Jurusan Teknik Informatika di Universitas Pembangunan Nasional "Veteran" 
-        Yogyakarta. 
+        Saya merupakan mahasiswa semester lima Jurusan Teknik Informatika di Universitas Pembangunan Nasional "Veteran" 
+        Yogyakarta. Saya memiliki ketertarikan lebih pada dunia pengembangan web. 
       </SectionText>
       <Button onClick={() => window.location = "mailto:salunaalavi@gmail.com"}>
         Hubungi saya
