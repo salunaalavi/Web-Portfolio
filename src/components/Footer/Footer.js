@@ -23,15 +23,17 @@ const Footer = () => {
           <CompanyContainer>
             <Slogan>Kerja Optimal Output Maksimal</Slogan>
           </CompanyContainer>
-          <SocialIcons href="https://github.com/salunaalavi">
-          <AiFillGithub size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://linkedin.com/in/saluna-alavi-6a0891227">
-            <AiFillLinkedin size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://instagram.com/salunaalavi">
-            <AiFillInstagram size="3rem" />
-          </SocialIcons>
+          <SocialIconsContainer>
+            <SocialIcons href="https://github.com/salunaalavi">
+              <AiFillGithub size="3rem" />
+            </SocialIcons>
+            <SocialIcons href="https://linkedin.com/in/saluna-alavi-6a0891227">
+              <AiFillLinkedin size="3rem" />
+            </SocialIcons>
+            <SocialIcons href="https://instagram.com/salunaalavi">
+              <AiFillInstagram size="3rem" />
+            </SocialIcons>
+          </SocialIconsContainer>
         </SocialIconsContainer>
       </Section>
     </FooterWrapper>
