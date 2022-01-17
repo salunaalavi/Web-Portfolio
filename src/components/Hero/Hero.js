@@ -15,7 +15,7 @@ const Hero = (props) => (
         Yogyakarta. 
       </SectionText>
       <Button onClick={() => window.location = "mailto:salunaalavi@gmail.com"}>
-        Reach me at
+        Hubungi saya
       </Button>
     </LeftSection>
   </Section>
