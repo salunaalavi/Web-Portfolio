@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'CityRide Yogya',
     description: "Dengan mengimplementasikan metode MVC yang dibantu dengan kerangka kerja Laravel, CityRide Yogya menghadirkan sebuah website penyewaan sepeda dengan konsep urban.",
-      image: '/images/CityRide.png',
+      image: '/images/CityRide.PNG',
       tags: ['Laravel', 'MVC', 'Bootstrap'],
     source: 'https://github.com/salunaalavi/project-sertifikasi-himpunan',
     visit: 'https://cityrideyogya.000webhostapp.com/',
