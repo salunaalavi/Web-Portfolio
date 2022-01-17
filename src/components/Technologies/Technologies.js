@@ -27,7 +27,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Berpengalaman dengan <br />
-            Laravel, MySQL dan JSON
+            Laravel, CodeIgniter, MySQL dan JSON
           </ListParagraph>
         </ListContainer>
       </ListItem>
